@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Advance Browser Operations&#xd;
+&#xd;
+* OpenBrowser&#xd;
+&#xd;
+* Get window title &#xd;
+&#xd;
+ * Get URL of the window&#xd;
+&#xd;
+ * Get window index&#xd;
+&#xd;
+ * Open a new window using Javascript snippet&#xd;
+ &#xd;
+ * Switch window with index&#xd;
+&#xd;
+ * Switch to window with title&#xd;
+&#xd;
+ * Switch to window with URL&#xd;
+&#xd;
+ * Close window by title&#xd;
+&#xd;
+ * Close window by URL&#xd;
+&#xd;
+ * Close window by index&#xd;
+ &#xd;
+&#xd;
+</description>
+   <name>TC_002 -Advance browser opertaions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56ae491e-0289-4e08-9771-aeb811039ca2</testCaseGuid>
+</TestCaseEntity>
